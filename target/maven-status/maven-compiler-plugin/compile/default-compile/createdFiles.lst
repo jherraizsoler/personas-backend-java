@@ -1,0 +1,6 @@
+gm\modelo\Persona.class
+gm\web\JAXRSActivator.class
+gm\service\PersonaServiceRS.class
+gm\web\CorsFilter.class
+gm\data\PersonaDAO.class
+gm\data\PersonaDAOimpl.class
