@@ -124,3 +124,8 @@ Para probar los endpoints, puedes utilizar Postman. A continuación, se describe
     * **Método**: `DELETE`
     * **URL**: `http://localhost:8080/personas-backend-java/webservice/personas/57`
     * Haz clic en **Send**. El servicio retornará un código de éxito si la eliminación fue correcta.
+
+* **DELETE /personas/{id}**
+    * **Método**: `DELETE`
+    * **URL**: `http://localhost:8080/personas-backend-java/webservice/personas/57`
+    * Haz clic en **Send**. El servicio retornará un código de éxito si la eliminación fue correcta.
